@@ -1,0 +1,52 @@
+
+.logohelado{
+	width: 25%;
+	margin-left: 5%;
+
+}
+.titulo{
+	margin-top: 5%;
+	text-align: center;
+	color: purple;
+}
+.imagenuno{
+	width: 100%;
+	border-radius: 20px;
+
+}
+.parrafouno{
+	text-align: center;
+	margin-left: 5%;
+}
+.botonuno{
+	display: block;
+	margin:auto;
+	margin-top: 10%;
+}
+.subtitulouno{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10%;
+}
+.subtitulodos{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 5%;
+}
+.parrafopreparacion{
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+.parrafobeneficios{
+	text-align: center;
+	margin-right: 3%;
+	margin-top: 2%
+}
+.imagenbeneficios{
+	width: 80%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
