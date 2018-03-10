@@ -48,5 +48,17 @@
 .imagenbeneficios{
 	width: 80%;
 	margin-left: 5%;
+	margin-top: 7%;
+	border-radius: 15px;
+}
+.imagenpreparacion{
+	border-radius: 15px;
+	margin-left: 80px;
+	margin-top: 5%;
+	
+}
+#iconos{
+	color: black;
+	background-color: pink;
 	margin-top: 5%;
 }
